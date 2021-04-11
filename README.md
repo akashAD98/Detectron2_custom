@@ -20,7 +20,7 @@ python voc2coco.py train_annotations/ output.json
 ## Segmentation
 
 folder strcture==>>
-images -all images;
+images -all images ;
 trainval.json- single json with all labels
 
 
